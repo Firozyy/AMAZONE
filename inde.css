@@ -1,0 +1,546 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.main_nav img {
+    width: 100%;
+    height: 60px;
+}
+
+.main_nav {
+    padding-right: 10px;
+    background-color: black;
+}
+
+
+.for_logo {
+    width: 150px;
+
+}
+
+.for_logo a {
+    text-decoration: none;
+}
+
+.for_logo a :hover {
+    border: 1px solid rgb(255, 255, 255);
+}
+
+.india {
+
+    width: 100px;
+    padding-left: 0%;
+    color: rgb(255, 255, 255);
+    padding: 5px;
+}
+
+.india a {
+    color: white;
+    text-decoration: none;
+    font-size: 13px;
+}
+
+.india a :hover {
+    border: 1px solid rgb(255, 255, 255);
+}
+
+.all {
+    padding-left: 10px;
+    width: 44px;
+
+}
+
+.all select {
+    font-weight: bold;
+    width: 50px;
+    height: 44px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.input {
+
+    width: 500px;
+    height: 37px;
+}
+
+.Serch_bar {
+    height: 37px;
+    width: 618px;
+    border-radius: 5px;
+}
+
+.search_icon {
+
+    width: 50px;
+    text-align: center
+}
+
+.search_icon img {
+    width: 20px;
+    height: 20px;
+}
+
+.search_icon button {
+    background-color: rgb(254, 189, 105);
+    height: 50px;
+    width: 50px;
+    border-radius: 5px;
+}
+
+.language {
+
+    width: 50px;
+}
+
+.language select {
+    width: 50px;
+    height: 28px;
+    background-color: transparent;
+    color: white;
+    border: 0px;
+}
+
+.Account_Lists select {
+    width: 110px;
+    height: 20px;
+    color: white;
+    border: 0px;
+    background-color: transparent;
+}
+
+.Account_Lists {
+    text-align: center;
+    color: white;
+    width: 130px;
+
+
+}
+
+.Returns a {
+    text-decoration: none;
+    color: white;
+}
+
+.cart a {
+    text-decoration: none;
+
+
+}
+
+.Returns {
+
+    width: 80px;
+    text-align: center;
+}
+
+.cart {
+
+
+    text-align: center;
+}
+
+
+
+
+
+
+.top_nav2 {
+    width: 100%;
+    background-color: rgb(28, 28, 54);
+
+}
+
+.top_nav2 ul {
+    margin: 0px;
+}
+
+.top_nav2 li {
+    list-style: none;
+    display: inline-block;
+    text-align: center;
+
+    padding: 10px;
+
+
+
+}
+
+.top_nav2 li a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-weight: lighter;
+    font-size: 12px;
+
+    padding-top: 10px;
+
+}
+
+.top_nav2 li :hover {
+    border: 1px solid rgb(253, 252, 252);
+
+
+}
+
+
+
+
+
+.show_items img {
+    width: 100%;
+    height: 271px;
+}
+
+.show_items td {
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+    padding-top: 30px;
+
+
+    margin: 0px;
+}
+
+.show_items_blue {
+
+    background-color: rgb(22, 22, 92);
+    padding-bottom: 0px;
+    padding: 0px !important;
+}
+
+.show_items_blue img {
+    height: auto;
+    width: 100%
+}
+
+.sign_in_bar {
+    background-color: rgb(17, 0, 255);
+    width: 288x;
+    height: 170px;
+    max-height: 170px;
+    padding: 0 !important;
+
+
+}
+
+.sign_in-table {
+
+
+    padding: 0px !important;
+    height: 150px;
+    width: 300px;
+    color: rgb(0, 0, 0);
+
+}
+
+.sign_in-table li {
+
+    list-style: none;
+    margin-bottom: 50px;
+    padding-left: 20px;
+    padding-bottom: 30px;
+    font-size: 16px;
+
+
+
+
+}
+
+
+.sign_in {
+    position: relative;
+    color: black;
+    background-color: rgb(202, 202, 9);
+    text-decoration: none;
+    left: 30px;
+    bottom: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    font-size: 14px;
+
+
+
+}
+
+.thumb_img {
+    height: auto;
+
+}
+
+.thumb_img td img {
+    height: 150px;
+    max-width: 150px;
+}
+
+.thumb_img td {
+    padding: 0px;
+
+}
+
+.sign_in_td .first_line {
+    position: fixed;
+    background-color: blue;
+    position: relative;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+
+
+}
+
+.book img {
+    width: 100%;
+
+}
+
+.book td {
+    background-color: white;
+    padding: 20px;
+    max-width: 170px;
+}
+
+.Game {
+   position:  relative;
+    bottom: 192px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: 20px;
+
+}
+
+.health_care {
+    position: relative;
+    bottom: 198px;
+}
+
+.Elctronics h2 {
+    position: relative;
+    bottom: 330px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: 20px;
+}.Kids_wears  {
+    position: relative;
+    bottom: 304px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: 20px;
+}
+.Easy_retunrns h2{
+    position: relative;
+    bottom: 330px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+   font-weight: lighter;
+    font-size: 20px;
+}
+
+.todays_deal img {
+    width: 100%;
+    height: 250px;
+}
+
+.todays_deal td {
+
+
+    background-color: white;
+    max-width: 200px;
+
+
+}
+
+.todays_deal {
+
+    border-collapse: separate;
+    border-spacing: 0 15px;
+
+}
+
+.todays_deal h2 {
+    font-family: sans-serif;
+    font-size: 20px;
+    position: relative;
+    margin: 0px;
+
+
+
+}
+
+.off {
+    position: relative;
+    text-decoration: none;
+    background-color: rgb(204, 12, 57);
+    text-align: center;
+    padding: 5px;
+    color: white;
+    font-family: sans-serif;
+    width: 30px;
+    font-size: 10px;
+}
+
+.Deal_of_the_day {
+    position: relative;
+    text-decoration: none;
+
+    text-align: center;
+    padding: 5px;
+    color: rgb(204, 12, 57);
+    font-family: sans-serif;
+    width: 30px;
+    font-size: 12px;
+}
+
+.Amazone_Fasion td {
+    background-color: rgb(217,213,212);
+    text-align: center;
+    padding: 20px;
+    height: 200px;
+
+}
+
+.Amazone_Fasion img {
+    width: 100%;
+}.See_personlised{
+    background-color: blue;
+}.See_personlised a{
+  background-color:rgb(254,189,105);
+  text-decoration: none;
+  color: black;
+  padding: 10px 70px;
+  border-radius: 10px;
+  
+
+}.See_personlised {
+    width: 100%;
+   padding-top: 20px;
+   padding-bottom: 20px;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+}.See_personlised1{
+  text-align: center;
+ width: 100%;
+  height: 100px;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+}.See_personlised1 h5 {
+    font-weight: lighter;
+}.footer li {
+    list-style: none;
+    padding-top: 10px;
+    
+}.footer{
+    padding-left: 125px;
+    padding-right: 125px;
+    background-color:rgb(35,47,62);
+    font-weight: lighter;
+    color: white;
+    font-size: 14px;
+}.footer .know-us{
+    
+    padding-bottom: 113px;
+   
+}.Get_to{
+  font-weight: bold;
+ 
+}.Conect_us{
+    padding-bottom: 143px;
+}.Back_to_top{
+    width: 100%;
+    text-align: center;
+    background-color: rgb(55,71,90);
+    height: 50px;
+}.Back_to_top a{
+    text-decoration: none;
+    color: white;
+    padding: 5px 25px;
+    font-size: 14px;
+    text-align: center;
+   
+}.assdf :hover{
+   opacity: 0.9;
+}
+.footer_line3{
+    background-color:rgb(35,47,62);
+    height: 150px;
+    border-top: 1px solid white;
+}
+.footer_line3 li{
+    list-style: none;
+    display: inline-block;
+}.footer_line3 img{
+    
+    width: 73px;
+    height: 30px;
+}.footer_line3 ul{
+    margin: 0px;
+}.footer_line3 select{
+    height: 30px;
+    background-color: transparent;
+    color: white;
+    border: solid white;
+    
+}.footer_line3 a{
+    padding-top: 10px;
+   
+    text-align: center;
+   
+}
+    
+.LAst{
+    width: 50%;
+    text-align: left;
+    padding-left: 50px;
+}.Logo_footer{
+    width: 50%;
+    text-align: right;
+    padding-right: 50px;
+}.countrys a{
+ text-decoration: none;
+ color: white;
+ padding-left: 10px;
+ font-weight: lighter;
+ font-size: 14px;
+ 
+}.countrys{
+    text-align: center;
+    padding-top: 20px;
+}.countrys li :hover{
+    text-decoration: underline;
+}.last_footer a {
+    text-decoration: none;
+    font-size: 10px;
+    font-weight: lighter;
+    color: white;
+}
+.last_footer td {
+    padding-top: 20px;
+    
+    
+   
+}.last_footer{
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color:rgb(19,26,34);
+}.last_footer td :hover{
+    text-decoration: underline;
+}.Conditions li{
+  display: inline;
+  list-style: none;
+  padding-left: 15px;
+ 
+}.Conditions{
+    text-align: center;
+    background-color:rgb(19,26,34);
+    padding-top: 20px;
+    color: white;
+    font-size: 12px;
+    font-weight: lighter;
+}.Conditions ul{
+    margin: 0px;
+}
